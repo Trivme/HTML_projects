@@ -1,6 +1,11 @@
 body {
     background: papayawhip;
     color: darkslateblue;
-    font-family: Arial;
+    font-family: Arial, serif;
+}
 
+img {
+    padding: 20px 60px;
+    border: 4px solid grey;
+    margin: 50px;
 }
